@@ -10,7 +10,7 @@ python -m venv charts
 
 Yet needed modules
 ```
-pip install pandas, pygal, pyplot, plotly
+pip install pandas pygal  plotly
 
 ```
 
